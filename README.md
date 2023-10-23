@@ -12,7 +12,7 @@ Please note that modifying software or making changes to system settings can hav
 
 ## Instructions
 
-1. Download the `Ally.custom.resolutions.reg` file from the [Releases]([https://github.com/your_username/your_repository/releases](https://github.com/KOALAaufPILLEN/rog-ally_custom-resolution/blob/main/Ally.custom.resolutions.reg) page of this repository.
+1. Download the `Ally.custom.resolutions.reg` file from the [Releases](https://github.com/KOALAaufPILLEN/rog-ally_custom-resolution/blob/main/Ally.custom.resolutions.reg) page of this repository.
 
 2. Locate the downloaded `Ally.custom.resolutions.reg` file on your computer.
 
